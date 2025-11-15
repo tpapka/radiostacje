@@ -12,6 +12,7 @@
   "Silesia": { "url": "https://s1.slotex.pl:7926/stream/1/;", "country": "PL" },
   "Piekary": { "url": "https://stream.radiopiekary.pl/", "country": "PL" },
   "RDC": { "url": "http://stream2.nadaje.com:11140/rdc", "country": "PL" },
+  "Dwójka": { "url": "https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8", "country": "PL" },
   "Trójka": { "url": "http://mp3.polskieradio.pl:8904/;.mp3", "country": "PL" },
   "Wnet": { "url": "https://media.wnet.fm/wnet.fm", "country": "PL" },
   "Rodzina": { "url": "https://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3", "country": "PL" },
