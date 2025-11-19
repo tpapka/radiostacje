@@ -16,6 +16,7 @@
   "Trójka": { "url": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8", "country": "PL" },
   "Wnet": { "url": "https://media.wnet.fm/wnet.fm", "country": "PL" },
   "Rodzina": { "url": "https://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3", "country": "PL" },
+  "Gdansk": { "url": "https://stream.task.gda.pl:8443/rg4", "country": "PL" },
   "Zet": { "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx", "country": "PL" },
   "Katowice": { "url": "https://stream4.nadaje.com:8497/katowice_c", "country": "PL" },
   "Kielce": { "url": "https://streaming.g-news.pl:8030/rk2", "country": "PL" },
