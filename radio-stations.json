@@ -23,11 +23,15 @@
   "Leliwa": { "url": "https://streaming.g-news.pl:8050/leliwa", "country": "PL" },
   "Wroclaw": { "url": "http://stream4.nadaje.com:9240/prw", "country": "PL" },
   "Warszawa": { "url": "https://stream2.technologicznie.net/radio_warszawa.mp3", "country": "PL" },
-  "Vox": {"url": "https://liveradio.timesa.pl/3990-1.aac/chunklist.m3u8", "country": "PL"},
+  "Vox": {
+    "url": "https://liveradio.timesa.pl/3990-1.aac/chunklist.m3u8",
+    "country": "PL",
+    "nowPlayingUrl": "https://front-api.grupazprmedia.pl/music/v1/now_playing/3990/",
+    "nowPlayingFormat": "artist-title"
+  },
   "Relevant": { "url": "https://17653.live.streamtheworld.com/RR_MAIN.mp3", "country": "USA" },
   "WNYC": { "url": "https://fm939.wnyc.org/wnycfm?nyprBrowserId=336e070168451200", "country": "USA" },
   "EWTN": { "url": "https://ewtn-ice.streamguys1.com/english-aac", "country": "USA" },
   "St.Barth": { "url": "https://go.2stream.net/rsb", "country": "SXM" },
   "Paradiso": { "url": "https://paradisode.streamabc.net/para-paradisoberlin-aacplus-64-8265440?sABC=66o2rn1o%230%23o3051885nr6s4rq086271p44455pp9s3%23jro&companionAds=true&listenerId=837650120eae222b4f79a4c22abbc6af&aw_0_req.userConsentV2=CQC-zoAQC-zoAAFADBDEA9EsAP_gAEPAAAYgHvQBgAWAFzAP2AvMBuAD3gLzgBAFzAXmAAAA.YAAAAAAAAAAA&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1723001371", "country": "DE" }
-
 }
