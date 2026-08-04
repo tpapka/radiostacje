@@ -1,6 +1,7 @@
 {
   "3 5 7": { "url": "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0", "country": "PL" },
   "Antyradio": { "url": "https://an04.cdn.eurozet.pl/ant-web.mp3", "country": "PL" },
+  "Bieszczady": { "url": "https://stream3.nadaje.com:8951/radiobieszczady", "PL"},
   "CPR Classical": { "url": "https://stream1.cprnetwork.org/cpr2_lo", "country": "USA" },
   "Maryja": { "url": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1", "country": "PL" },
   "Nowy Świat": { "url": "https://n10.rcs.revma.com/ypqt40u0x1zuv?trns=dvy5y&rj-tok=AAABj-kwB7EAHPxJRsYfbTh6sw&rj-ttl=5", "country": "PL" },
