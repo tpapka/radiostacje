@@ -12,7 +12,7 @@
   "Silesia": { "url": "https://s1.slotex.pl:7926/stream/1/;", "country": "PL" },
   "Piekary": { "url": "https://stream.rcs.revma.com/87c7ec8843bwv", "country": "PL" },
   "RDC": { "url": "http://stream2.nadaje.com:11140/rdc", "country": "PL" },
-  "Jedynka": { "url": "https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8", "country": "PL" },
+  "Jedynka": { "url": "https://stream11.polskieradio.pl/pr1/pr1.sdp/master_w1134875011.m3u8", "country": "PL" },
   "Dwójka": { "url": "https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8", "country": "PL" },
   "Trójka": { "url": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8", "country": "PL" },
   "Wnet": { "url": "https://media.wnet.fm/wnet.fm", "country": "PL" },
