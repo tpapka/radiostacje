@@ -36,6 +36,7 @@
     "nowPlayingFormat": "artist-title"
   },
   "Relevant": { "url": "https://17653.live.streamtheworld.com/RR_MAIN.mp3", "country": "USA" },
+  "WBUR": {"url": "https://fm909.wbur.org/wbur_www", "country": "USA"},
   "WNYC": { "url": "https://fm939.wnyc.org/wnycfm?nyprBrowserId=336e070168451200", "country": "USA" },
   "EWTN": { "url": "https://ewtn-ice.streamguys1.com/english-aac", "country": "USA" },
   "St.Barth": { "url": "https://go.2stream.net/rsb", "country": "SXM" },
