@@ -42,5 +42,5 @@
   "EWTN": { "url": "https://ewtn-ice.streamguys1.com/english-aac", "country": "USA" },
   "St.Barth": { "url": "https://go.2stream.net/rsb", "country": "SXM" },
   "Paradiso": { "url": "https://streams.paradiso.de/berlin/mp3-192?ref=radio-de", "country": "DE"},
-  "Złote Przeboje": {"url": "https://27783.live.streamtheworld.com/RADIO_ZLOTE_PRZEBOJEAAC.aac?dist=mytuner", "country" : "PL"},
+  "Zlote Przeboje": {"url": "https://27783.live.streamtheworld.com/RADIO_ZLOTE_PRZEBOJEAAC.aac?dist=mytuner", "country" : "PL"},
 }
