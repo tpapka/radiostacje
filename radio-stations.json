@@ -18,6 +18,7 @@
   "Republika": {"url": "https://ssl-1.radiotvrepublika.pl:8000/stream", "country": "PL"},
   "RMF FM": { "url": "https://rs6-krk2.rmfstream.pl/RMFFM48", "country": "PL" },
   "RMF Classic": { "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_classic", "country": "PL" },
+  "talkRADIO": {"url": "https://talk.live.stream.broadcasting.news/stream?aw_0_1st.platform=website", "country": "UK"},
   "TOK FM": { "url": "https://radiostream.pl/tuba10-1.mp3", "country": "PL" },
   "Silesia": { "url": "https://s1.slotex.pl:7926/stream/1/;", "country": "PL" },
   "Piekary": { "url": "https://stream.rcs.revma.com/87c7ec8843bwv", "country": "PL" },
