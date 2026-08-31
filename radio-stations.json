@@ -11,6 +11,7 @@
   "ESKA2 Warszawa": {"url": "https://liveradio.timesa.pl/1380-1.aac/playlist.m3u8", "country": "PL"},
   "GB News Radio": {"url": "https://listen-gbnews.sharp-stream.com/gbnews.mp3", "country": "UK"},
   "LBC": {"url": "https://media-ssl.musicradio.com/LBCUK?isLoggedIn=true&dax_version=release_7421&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&gdpr_consent=&gigya_id=d7fa43ed6e68441a9160c8da44975b5b", "country": "UK"},
+  "Magic FM": {"url": "https://14103.live.streamtheworld.com/KKMGFMAAC/HLS/2ef7786e-0de4-4283-b97b-974a4b6eab48/0/playlist.m3u8", "country": "USA"},
   "Maryja": { "url": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1", "country": "PL" },
   "Nowy Świat": { "url": "https://n10.rcs.revma.com/ypqt40u0x1zuv?trns=dvy5y&rj-tok=AAABj-kwB7EAHPxJRsYfbTh6sw&rj-ttl=5", "country": "PL" },
   "Plus": { "url": "https://pl06.cdn.eurozet.pl/plu-waw.mp3?redirected=06", "country": "PL" },
