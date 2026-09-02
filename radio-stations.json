@@ -6,6 +6,8 @@
   "Classic FM": {"url": "https://media-ssl.musicradio.com/ClassicFM?isLoggedIn=true&dax_version=release_7421&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&gdpr_consent=&gigya_id=d7fa43ed6e68441a9160c8da44975b5b", "country": "UK"},
   "Classic FM Calm": {"url": "https://media-ssl.musicradio.com/ClassicFMCalm?isLoggedIn=true&dax_version=release_7421&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&gdpr_consent=&gigya_id=d7fa43ed6e68441a9160c8da44975b5b", "country": "UK"},
   "CPR Classical": {"url": "https://stream1.cprnetwork.org/cpr2_lo", "country": "USA" },
+  "Deutschlandfunk": {"url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3", "country": "DE"},
+  "Deutschlandfunk Nova": {"url": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3", "country": "DE"},
   "eM": {"url": "https://stream3.radioem.pl/stream/", "country": "PL"},
   "ESKA Warszawa": {"url": "https://liveradio.timesa.pl/2380-1.aac/playlist.m3u8", "country": "PL"},
   "ESKA2 Warszawa": {"url": "https://liveradio.timesa.pl/1380-1.aac/playlist.m3u8", "country": "PL"},
