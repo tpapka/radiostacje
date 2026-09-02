@@ -36,7 +36,7 @@
   "Katowice": { "url": "https://stream4.nadaje.com:8497/katowice_c", "country": "PL" },
   "Kielce": { "url": "https://streaming.g-news.pl:8030/rk2", "country": "PL" },
   "Leliwa": { "url": "https://streaming.g-news.pl:8050/leliwa", "country": "PL" },
-  "Wroclaw": { "url": "http://stream4.nadaje.com:9240/prw", "country": "PL" },
+  "Wroclaw": { "url": "https://stream4.nadaje.com:9241/prw", "country": "PL" },
   "Warszawa": { "url": "https://stream2.technologicznie.net/radio_warszawa.mp3", "country": "PL" },
   "Vox": {
     "url": "https://liveradio.timesa.pl/3990-1.aac/chunklist.m3u8",
