@@ -20,6 +20,7 @@
   "Plus": { "url": "https://pl06.cdn.eurozet.pl/plu-waw.mp3?redirected=06", "country": "PL" },
   "Polskie Radio 24": {"url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8", "country": "PL"},
   "Republika": {"url": "https://ssl-1.radiotvrepublika.pl:8000/stream", "country": "PL"},
+  "RFI Monde": {"url": "https://stream.zeno.fm/d8cpkk9zsy8uv", "country": "FR"},
   "RMF FM": { "url": "https://rs6-krk2.rmfstream.pl/RMFFM48", "country": "PL" },
   "RMF Classic": { "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_classic", "country": "PL" },
   "RTÉ lyric fm": {"url": "https://27913.live.streamtheworld.com/RTE_LYRIC_FMAACLC/HLS/playlist.m3u8?tdsdk=rte", "country": "IE"},
