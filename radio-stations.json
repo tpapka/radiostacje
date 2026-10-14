@@ -43,12 +43,7 @@
   "Leliwa": { "url": "https://streaming.g-news.pl:8050/leliwa", "country": "PL" },
   "Wroclaw": { "url": "https://stream4.nadaje.com:9241/prw", "country": "PL" },
   "Warszawa": { "url": "https://stream2.technologicznie.net/radio_warszawa.mp3", "country": "PL" },
-  "Vox": {
-    "url": "https://liveradio.timesa.pl/3990-1.aac/chunklist.m3u8",
-    "country": "PL",
-    "nowPlayingUrl": "https://front-api.grupazprmedia.pl/music/v1/now_playing/3990/",
-    "nowPlayingFormat": "artist-title"
-  },
+  "Vox": {"url": "https://liveradio.timesa.pl/3990-1.aac/chunklist.m3u8", "country": "PL"},
   "Relevant": { "url": "https://14833.live.streamtheworld.com/RR_MAIN.mp3", "country": "USA" },
   "WBUR": {"url": "https://fm909.wbur.org/wbur_www", "country": "USA"},
   "WNYC": { "url": "https://fm939.wnyc.org/wnycfm?nyprBrowserId=336e070168451200", "country": "USA" },
