@@ -19,7 +19,7 @@
   "Maryja": { "url": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1", "country": "PL" },
   "Nowy Świat": { "url": "https://n10.rcs.revma.com/ypqt40u0x1zuv?trns=dvy5y&rj-tok=AAABj-kwB7EAHPxJRsYfbTh6sw&rj-ttl=5", "country": "PL" },
   "Plus": { "url": "https://pl06.cdn.eurozet.pl/plu-waw.mp3?redirected=06", "country": "PL" },
-  "Polski FM (WCPY)": {"url": "https://usa8.fastcast4u.com/proxy/live?mp=/1", "country": "USA"},
+  "Polski FM": {"url": "https://usa8.fastcast4u.com/proxy/live?mp=/1", "country": "USA"},
   "Polskie Radio 24": {"url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8", "country": "PL"},
   "Republika": {"url": "https://ssl-1.radiotvrepublika.pl:8000/stream", "country": "PL"},
   "RFI Monde": {"url": "https://stream.zeno.fm/d8cpkk9zsy8uv", "country": "FR"},
